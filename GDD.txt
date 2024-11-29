@@ -1,0 +1,36 @@
+Camara: 2D, Cenital, Ortográfica, Top-Down
+Control: Movimiento 2D libre en X,Y sin gravedad
+Character: Miembro de la tribu, personaje estilo pintura rupestre
+
+INDRODUCCION:
+- Eres un miembro de una tribu de Cazadores/Recolectores. Son los primeros habitantes que acaban de llegar al continente Americano, tendrán que cazar, recolectar, explorar y aprender a sobrevivir en este nuevo mundo.
+
+CONCEPTO: 
+- Eres un joven cuya tribu ha realizado un largo viaje para llegar a unas tierras muy diferentes de las que provienen (como eres joven no tienes mucha memoria de como llegaron, solo sabes que aquí están). Como parte de tu crianza por primera vez te permitirán que salgas sin supervisión para que obtengas el sustento del día, tendrás que cazar una cantidad de animales y plantas para comer esta noche.
+
+OBJETIVO:
+- Cazar animales y recolectar vegetales, Evitar ser atacado.
+
+CARACTERISTICAS:
+- 2D, Camara Cenital Ortografica, Graficos estilo Pintura Rupestre
+
+GENERO:
+- Survival, Accion/Aventura
+
+PUBLICO:
+- Gente interesada en Juegos Historicos (la idea es centrarlo en America pero darle un estilo que pueda extrapolarse a cualquier tribu de cazadores recolectores)
+
+ALCANCE:
+- Un primer nivel prototipo con 2 zonas, zona de campamento de tribu para mecánicas de conversación y zona exterior en naturaleza para exploración, caza/recolección y combate
+
+MECANICAS: 
+- Moverse (movimiento 2D sobre un plano sin gravedad), 
+- Hablar (conversa cuando te acercas a otro personaje para obtener información)
+- Exploración (observa objetos en el entorno para descubrir información sobre ellos y recolectarlos)
+- Combate (atacar a otras personas o animales salvajes para cazarlos)
+
+REFERENCIAS:
+- In The Mammoth: A Cave Painting
+- Far Cry Primal
+- Ancestors, The Humankind Oddisey
+- https://www.youtube.com/watch?v=oUOAIYGht3U
